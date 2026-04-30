@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
-👨‍💻 &nbsp;Soy un apasionado desarrollador de software y **CEO de BCTECH**, enfocado en soluciones innovadoras.\
+👨‍💻 &nbsp;Soy un apasionado desarrollador de software, enfocado en soluciones innovadoras.\
 💡 &nbsp;Me encanta explorar nuevas tecnologías, optimizar procesos y aplicar inteligencia artificial en el desarrollo real.\
 🎓 &nbsp;Actualmente estudio **Ingeniería de Software con Inteligencia Artificial** en SENATI.\
 🌱 &nbsp;Estoy profundizando mis conocimientos en **Modelos de IA**, Arquitectura de Microservicios y Desarrollo Móvil.\
